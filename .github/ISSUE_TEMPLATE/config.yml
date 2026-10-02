@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Reportar una vulnerabilidad de seguridad
+    url: https://github.com/zeyniyoimiya-art/abisal-museo-bioluminiscente/security/advisories/new
+    about: No abras un issue público para temas de seguridad; usa el reporte privado.
+  - name: Preguntas y comentarios
+    url: https://github.com/zeyniyoimiya-art/abisal-museo-bioluminiscente/discussions
+    about: Para dudas generales o simplemente para saludar.

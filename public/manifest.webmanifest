@@ -1,0 +1,12 @@
+{
+  "name": "ABISAL · Museo Bioluminiscente de lo Imposible",
+  "short_name": "ABISAL",
+  "description": "Descenso de 0 a 11,000 m con ocho investigaciones completas. Funciona sin conexión.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#020409",
+  "theme_color": "#0a3d4d",
+  "lang": "es",
+  "icons": [{ "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}

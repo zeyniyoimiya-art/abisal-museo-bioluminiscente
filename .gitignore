@@ -1,0 +1,29 @@
+# Dependencias y build
+node_modules
+dist
+dist-ssr
+
+# Variables de entorno
+.env
+.env.*
+!.env.example
+
+# Zips del proyecto (no se publican)
+*.zip
+
+# Editores / sistema
+.idea
+.vscode/*
+!.vscode/extensions.json
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Mensaje de commit temporal
+gitmsg.txt
+
+# Carpeta de prueba local que simula GitHub Pages (subdirectorio)
+pages_test
